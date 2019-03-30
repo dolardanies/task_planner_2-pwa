@@ -1,4 +1,4 @@
-Parte 1 Task Planner
+Parte 2 Task Planner y PWA
 
 Link Heroku:
 
